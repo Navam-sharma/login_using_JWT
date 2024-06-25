@@ -6,7 +6,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/auth-system.git
+git clone https://github.com/Navam-sharma/login_using_JWT.git
 Navigate to the project directory:
 
 cd auth-system
